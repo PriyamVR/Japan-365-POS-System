@@ -1,0 +1,19 @@
+# Qt and CMake build files
+/build/
+build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# Executable files
+*.exe
+*.obj
+*.o
+
+# Qt Creator settings
+*.user
+*.user.*
+
+# Local database
+*.sqlite
+*.sqlite3
+*.db
