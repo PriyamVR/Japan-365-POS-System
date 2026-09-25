@@ -1,6 +1,12 @@
 # Japan 365 POS System — Inventory, Finance & Reporting (C++ / Qt 6 / SQLite)
 
-An **independent POS-style desktop application**, not an official Japan.365 product, its proprietary program, or an exact clone. Source code is supplied. This source package has **not** been compiled into a Windows `.exe` in the authoring environment, which does not have Qt installed. Build it on Windows with the instructions below.
+Japan 365 POS System is a C++ desktop application developed using Qt 6 and SQLite as an academic project. It focuses on five assigned modules: Stock Transfers, Stock Adjustment, Expenses, Payment Accounts, and Reports.
+
+The application has been successfully built and launched on Windows using Qt Creator, Qt 6.11.2, and MinGW 64-bit.
+
+The GitHub repository includes the complete source code, database schema, and build instructions. Users can build and run the application using Qt Creator.
+
+This is an independently developed academic project and is not the official Japan.365 software.
 
 ## Project identity
 
